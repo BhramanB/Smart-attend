@@ -18,10 +18,9 @@ An Android-based Attendance Management System built using Kotlin and Jetpack Com
 - MVVM Architecture
 
 ## 📷 Screenshots
-(Add screenshots here)
+![WhatsApp Image 2026-03-01 at 8 03 44 PM](https://github.com/user-attachments/assets/c925de36-6780-40ca-ae84-1363efa21c64)
 
-## 📦 APK Download
-(Add APK link here)
+
 
 ## 👨‍💻 Developer
 Bhraman Bhagat  
