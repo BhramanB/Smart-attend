@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840022882886",
+    "project_id": "smart-attend-3b495",
+    "storage_bucket": "smart-attend-3b495.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840022882886:android:0d477ce47469e02c3a6847",
+        "android_client_info": {
+          "package_name": "com.attendancehr.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3kJT8z-yZcK1E-Qjf_Kf4gLEY4sOouws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

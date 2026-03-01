@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attendance HR</string>
+    <string name="gcm_defaultSenderId" translatable="false">840022882886</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3kJT8z-yZcK1E-Qjf_Kf4gLEY4sOouws</string>
+    <string name="google_app_id" translatable="false">1:840022882886:android:0d477ce47469e02c3a6847</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3kJT8z-yZcK1E-Qjf_Kf4gLEY4sOouws</string>
+    <string name="google_storage_bucket" translatable="false">smart-attend-3b495.firebasestorage.app</string>
+    <string name="project_id" translatable="false">smart-attend-3b495</string>
+    <style name="Theme.AttendanceHR" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
