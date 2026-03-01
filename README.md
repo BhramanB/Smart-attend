@@ -1,4 +1,4 @@
-# 📱 Smart Attend Application 
+# 📱 Smart Attend Application https://github.com/BhramanB/Smart-attend/blob/main/README.md
 
 An Android-based Attendance Management System built using Kotlin and Jetpack Compose.
 
